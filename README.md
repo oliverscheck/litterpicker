@@ -1,6 +1,6 @@
 # Litter Picker
 
-A mobile app for coordinating litter picking activities.
+Litter Picker is a iOS mobile app for coordinating litter picking activities.
 
 # Goals
 
